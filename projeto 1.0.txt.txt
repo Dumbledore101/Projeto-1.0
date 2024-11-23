@@ -1,3 +1,35 @@
 inicio do projeto de estudos.
 
 estudos git 23/11/2024 pelo canal Código Fonte TV.
+ 
+Codigos Git
+
+git init para iniciar tudo.
+_________________________________________________________________________________________________
+
+Como adicionar arquivos ao controle de versão.
+ 
+git add . para adicionar todos os arquivos ou adicionar um por um, que não é nada prático.
+git status para verificar como estão os arquivos, se foram alterados ou não.
+_________________________________________________________________________________________________
+
+
+Como criar versões do código com commit
+
+git commit -m "colocar oque foi feito"
+oque foi criado para esse projeto foi o "COMMIT 1"
+________________________________________________________________________________________________
+
+Como Enviar alterações usando git push
+
+git push  
+Envia todos os seus arquivos para o GitHub. foi feito com sucesso. 
+________________________________________________________________________________________________
+
+Ciclo de atualização de código
+
+criando uma nova versão com o código
+
+git commit -m "oque foi alterado"
+ e depois
+Git Push
