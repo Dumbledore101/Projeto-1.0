@@ -33,3 +33,65 @@ criando uma nova versão com o código
 git commit -m "oque foi alterado"
  e depois
 Git Push
+ 
+Executado com sucesso.
+______________________________________________________________________________________________
+
+Como Verificar Histórico de atualizações
+
+Comando: git reflog a primeira é sempre a mais atual
+
+como voltar a versão anterior
+
+Git reset --hard mais o id da versão
+cada empresa usa essas versões de formas diferentes. checar com o superior antes de fazer algo errado.
+_______________________________________________________________________________________________________
+
+Oque são Branches e como criar uma.
+
+são como locais para armazenamento dos códigos.
+sempre tem uma principal e as outras que são testadas  e depois são alocadas a principal com novas funcionalidades ou corrigir um bag. essas são chamas de paralelas.
+
+comando usado: git merge
+para criar outra branch: git branch ( nome ) geralmente é staging
+
+para trocar de branch usada atualmente: git checkout staging ou ( nome)
+para confirmar : git status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
