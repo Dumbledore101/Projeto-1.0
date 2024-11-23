@@ -56,6 +56,7 @@ comando usado: git merge
 para criar outra branch: git branch ( nome ) geralmente é staging
 teste 1234
 
+<<<<<<< HEAD
 Bruno dos reis leal
 
 Obs: o Git Merge é para unir as versões. trazer informações de outras branches para a principal. resolvendo os problemas ou novas funcionalidades. 
@@ -110,6 +111,10 @@ para confirmar : git status
 =======
 enviando os arquivos da staging para a master
 Bruno dos reis Leal. ( teste 2)
+=======
+Bruno dos reis leal teste 4
+tentativa 
+>>>>>>> staging
 
 Obs: o Git Merge é para unir as versões. trazer informações de outras branches para a principal. resolvendo os problemas ou novas funcionalidades. 
 Como executar: você tem que ir para a branch principal e colocar o condigo: git merge staging ou nome da branch.
@@ -135,5 +140,8 @@ para confirmar : git status
 
 
 
+<<<<<<< HEAD
 
+>>>>>>> staging
+=======
 >>>>>>> staging
