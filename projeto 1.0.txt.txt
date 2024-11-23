@@ -1,0 +1,3 @@
+inicio do projeto de estudos.
+
+estudos git 23/11/2024 pelo canal Código Fonte TV.
