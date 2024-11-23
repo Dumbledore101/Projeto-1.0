@@ -54,17 +54,16 @@ sempre tem uma principal e as outras que são testadas  e depois são alocadas a
 
 comando usado: git merge
 para criar outra branch: git branch ( nome ) geralmente é staging
-<<<<<<< HEAD 
-teste merge
-enviando os arquivos da staging para a master
-Bruno dos reis Leal. ( teste 2)
+teste 1234
+
+Bruno dos reis leal teste 4
+tentativa 
 
 Obs: o Git Merge é para unir as versões. trazer informações de outras branches para a principal. resolvendo os problemas ou novas funcionalidades. 
 Como executar: você tem que ir para a branch principal e colocar o condigo: git merge staging ou nome da branch.
 
 para trocar de branch usada atualmente: git checkout staging ou ( nome)
 para confirmar : git status
-
 
 
 
